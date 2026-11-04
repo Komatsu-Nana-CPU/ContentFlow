@@ -28,7 +28,13 @@ GitHub连接器与本机Git Credential Manager均核实为个人账号Komatsu-Na
 
 ## 发布结果
 
-仓库已创建；本节在首次提交推送、公共访问/树/README/图片核验后追加实测结果。当前没有宣称未执行的推送成功。[发布后核验](evidence/round008_github_verification.json)
+仓库 https://github.com/Komatsu-Nana-CPU/ContentFlow 已公开创建并成功推送main。首次提交为 [51abce7801193d7e681b2a96d38e37565c4066b0](https://github.com/Komatsu-Nana-CPU/ContentFlow/commit/51abce7801193d7e681b2a96d38e37565c4066b0)，没有父提交；只表示当前实际版本，没有补造旧开发轮次的Git提交。origin为正确HTTPS地址，main跟踪origin/main，未强制推送。
+
+发布后通过GitHub官方Git引用/提交对象/完整树API核对110个公开文件，路径及全部blob SHA与本地提交、公开清单完全一致；排除项没有进入树。匿名仓库页面HTTP200；服务端渲染README包含两张预期截图；公开raw README与提交字节一致。两张实际渲染图片链接Range各返回206，64字节PNG头/尺寸前缀与原图一致，同时完整图像blob SHA通过远程树核对。[首次提交发布后核验快照](evidence/round008_github_verification.json)
+
+核验中曾遇到IncompleteRead、超时和默认沙箱外网连接受限；只读ls-remote在获准网络环境确认真实远程SHA。为避免首次提交包含所有diff的大响应，改用轻量Git对象/树；公开网页先取得完整262499字节的200快照，随后复用同一发布过程的快照检查README图链，并对实际图链做轻量Range检查。未用截断响应冒充完整文件、未重复推送修复网络问题。网页检索服务因新仓库cache miss无法读取，实际公开GET和GitHubAPI核验单独成功。
+
+本节及检查快照是首次推送后追加的真实发布记录，单独形成文档提交；不改写首次提交、旧开发事实或公开初始代码。最终分支和提交可从GitHub main查看。本轮没有浏览器UI截图/实际播放/点击下载通过，电脑工具限制仍明确保留。
 
 ## 仍待用户处理
 

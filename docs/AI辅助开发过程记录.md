@@ -553,3 +553,13 @@ GitHub连接器核对个人账号Komatsu-Nana-CPU，本机Git凭证失效401；�
 复跑应用50项（2.424秒）、上游Mock11项（0.010秒）均通过；12个原件/样片/数据库哈希、53源码与锁文件不变。公开文件有限扫描、Markdown链接和3张截图PNG结构通过。本机个人目录/报告仍不发布。新仓库最初不存在，检查通过后创建公开空仓库 https://github.com/Komatsu-Nana-CPU/ContentFlow ，未初始化任何README/许可证/开发历史。
 
 README标明源码仓库、localhost仅本机，演示视频保持待补；新机指南补真实clone地址；公开说明保留第007轮历史“未提交”事实并指向本轮。新增首次发布记录和本轮脱敏检查JSON，更新公开清单。首次提交/推送及发布后实测结果将在完成后补记，不预写成功。[首次发布记录](首次GitHub发布记录.md)
+
+### 第008轮发布完成补记
+
+按110项明确公开清单使用literal pathspec逐项暂存，不使用git add -f；复核暂存路径完全一致、所有index blob与审查工作文件匹配后，使用公开账号handle和GitHub noreply地址创建唯一真实初始提交51abce7801193d7e681b2a96d38e37565c4066b0（0父提交）。添加origin=https://github.com/Komatsu-Nana-CPU/ContentFlow.git，普通git push --set-upstream origin main成功，未覆盖同名仓库或强制推送。账号为明确本人个人账号，不向组织发布，不选根LICENSE。
+
+首次发布后远程110个blob/path与本地提交和清单全部一致，公开页面匿名HTTP200；渲染README有两张指定截图，raw README字节相同；两张图片实际公开链接Range返回206/64字节PNG头与原图一致，完整图像Git blob SHA同时通过。此处技术HTTP/树核验不冒充浏览器截图。首次公开提交及图像证据见 [核验快照](evidence/round008_github_verification.json)，该JSON记录首次提交，不自称包含后续文档补记的最终SHA。
+
+排障真实记录：默认沙箱外部git ls-remote连接失败，获准网络环境下读到正确SHA；网页检索服务对新仓库cache miss；GitHub分块大响应多次IncompleteRead或超时。没有用失败响应宣称成功，最终改轻量Git ref/commit/tree、总超时curl及图片Range，取得完整HTML200快照、完整远程树和原文。认证头仅内存经stdin交给curl，不写入命令行、日志或报告。所有重试为只读GET，没有因网络问题重复视频/模型或Git推送。
+
+发布实测完成后追加本段和首次发布记录/核验JSON，单独形成真实文档提交，不回填开发历史、不改写初始提交。最终再次检查main远程一致、工作树和私密排除，结果以本轮交付说明及本机runtime/round008发布回执为准。代码测试仍为本轮50项+11项通过，后续只修改发布记录，无需重复计费或生成验证。剩余：实际浏览器UI检查受工具URL限制，公开演示视频/新机复装/完整脱敏会话/自身许可证仍待补；第二主题未运行。

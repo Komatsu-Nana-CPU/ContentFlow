@@ -1,1 +1,32 @@
-{"status":"pending first push and public verification"}
+{
+  "repository": "https://github.com/Komatsu-Nana-CPU/ContentFlow",
+  "public": true,
+  "owner": "Komatsu-Nana-CPU",
+  "default_branch": "main",
+  "commit": "51abce7801193d7e681b2a96d38e37565c4066b0",
+  "parents_count": 0,
+  "public_http_status": 200,
+  "public_html_observation": "complete HTTP200 snapshot obtained after initial push in the same release",
+  "files_count": 110,
+  "remote_tree_equals_local_commit_and_allowlist": true,
+  "readme_raw_matches_commit": true,
+  "rendered_readme_image_count": 2,
+  "public_image_checks": [
+    {
+      "path": "docs/report_assets/01_ContentFlow_选题与脚本主界面.png",
+      "public_http_status": 206,
+      "checked_response_bytes": 64,
+      "response_matches_local_prefix_or_full_file": true,
+      "complete_git_blob_sha_matches_reviewed_commit": true
+    },
+    {
+      "path": "docs/report_assets/02A_ContentFlow_成片播放器与视频规格.png",
+      "public_http_status": 206,
+      "checked_response_bytes": 64,
+      "response_matches_local_prefix_or_full_file": true,
+      "complete_git_blob_sha_matches_reviewed_commit": true
+    }
+  ],
+  "excluded_files_uploaded": false,
+  "verification_method": "GitHub API full tree equality, saved anonymous HTTP200 HTML and anonymous raw README/image GET; images checked via full Git blob plus response header/prefix, no browser UI claim"
+}

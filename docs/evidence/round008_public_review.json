@@ -117,9 +117,9 @@
   "files_over_5MiB": [],
   "missing_local_links": [],
   "links_to_local_only_files": [],
-  "tracked_count": 0,
+  "tracked_count": 110,
   "staged_count": 0,
-  "remotes_count": 0,
+  "remotes_count": 1,
   "scope": "Git candidates and limited patterns only; no credentials/config values read, no automatic staging or publication; cannot guarantee all secrets detected",
   "passed": true
 }
