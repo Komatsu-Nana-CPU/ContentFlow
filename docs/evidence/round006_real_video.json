@@ -1,0 +1,73 @@
+{
+  "draft_id": "7cb5930a-f186-495b-a72c-cbca0074680b",
+  "approved_content": {
+    "title": "雨后森林溪流漫步",
+    "script": "雨刚停，森林里还挂着水珠。沿着小径往前走，溪水在石头间轻轻流淌。转过弯，一道瀑布从岩壁上落下，水声盖过了脚步声。我放慢呼吸，让湿润的空气慢慢填满胸腔，什么都不必赶。",
+    "video_terms": [
+      "rain drops on forest leaves",
+      "small stream flowing over rocks",
+      "waterfall in green forest",
+      "walking path in wet forest"
+    ]
+  },
+  "reviewed_hash": "bff10f6d90d9328a8073dd93b67cacbdf4906bbfe24e714451d82cb53cce4c73",
+  "approval_basis": "User explicitly confirmed the exact proposed script and four ordered terms in conversation",
+  "approved_at": "2026-11-01T00:33:40.485074+08:00",
+  "video_post_attempts": 1,
+  "state": "complete",
+  "job_id": "98c1b665-7571-4f16-9bf7-072fd9eb3519",
+  "task_id": "045395ae-0ddd-48a1-8aaa-95db07c3970c",
+  "last_job": {
+    "id": "98c1b665-7571-4f16-9bf7-072fd9eb3519",
+    "draft_id": "7cb5930a-f186-495b-a72c-cbca0074680b",
+    "snapshot_hash": "23395fc33a88ab126ac0146a9e7c65851b11fd473533199bf6b08157b6b6bfe6",
+    "snapshot": "{\"topic\": \"雨后森林中的溪流与瀑布，一次放慢脚步的自然漫步\", \"content\": {\"title\": \"雨后森林溪流漫步\", \"script\": \"雨刚停，森林里还挂着水珠。沿着小径往前走，溪水在石头间轻轻流淌。转过弯，一道瀑布从岩壁上落下，水声盖过了脚步声。我放慢呼吸，让湿润的空气慢慢填满胸腔，什么都不必赶。\", \"video_terms\": [\"rain drops on forest leaves\", \"small stream flowing over rocks\", \"waterfall in green forest\", \"walking path in wet forest\"]}, \"source\": \"pixabay\", \"reviewed_content_hash\": \"bff10f6d90d9328a8073dd93b67cacbdf4906bbfe24e714451d82cb53cce4c73\"}",
+    "task_id": "045395ae-0ddd-48a1-8aaa-95db07c3970c",
+    "state": "complete",
+    "progress": 100,
+    "error": "",
+    "file_path": "videos\\045395ae-0ddd-48a1-8aaa-95db07c3970c.mp4",
+    "metadata": "{\"bytes\": 17043531, \"sha256\": \"69f5d7c817bce7ecaada063f19ceb39fa1bcaa6161eadf3045b405bf247eebea\", \"duration_seconds\": 18.67, \"width\": 1080, \"height\": 1920, \"decoded\": true, \"material_sources\": [{\"provider\": \"pixabay\", \"search_term\": \"rain drops on forest leaves\", \"source_page\": \"https://pixabay.com/videos/id-172759/\", \"creator\": \"TravelGardenB\", \"creator_page\": null}, {\"provider\": \"pixabay\", \"search_term\": \"small stream flowing over rocks\", \"source_page\": \"https://pixabay.com/videos/id-323176/\", \"creator\": \"hijef\", \"creator_page\": null}, {\"provider\": \"pixabay\", \"search_term\": \"waterfall in green forest\", \"source_page\": \"https://pixabay.com/videos/id-267095/\", \"creator\": \"Engin_Akyurt\", \"creator_page\": null}, {\"provider\": \"pixabay\", \"search_term\": \"walking path in wet forest\", \"source_page\": \"https://pixabay.com/videos/id-202753/\", \"creator\": \"Matthias_Groeneveld\", \"creator_page\": null}], \"material_search\": {\"source\": \"pixabay\", \"at\": \"2026-11-01T00:29:40.597548+08:00\", \"status\": \"passed\", \"matched_count\": 20, \"search_network_calls\": 4, \"terms\": [{\"search_term\": \"rain drops on forest leaves\", \"candidate_count\": 4, \"upstream_cache_hit\": false, \"http\": {\"http_status\": 200, \"status\": \"ok\", \"returned_hits\": 50}}, {\"search_term\": \"small stream flowing over rocks\", \"candidate_count\": 5, \"upstream_cache_hit\": false, \"http\": {\"http_status\": 200, \"status\": \"ok\", \"returned_hits\": 50}}, {\"search_term\": \"waterfall in green forest\", \"candidate_count\": 7, \"upstream_cache_hit\": false, \"http\": {\"http_status\": 200, \"status\": \"ok\", \"returned_hits\": 50}}, {\"search_term\": \"walking path in wet forest\", \"candidate_count\": 5, \"upstream_cache_hit\": false, \"http\": {\"http_status\": 200, \"status\": \"ok\", \"returned_hits\": 50}}], \"diagnostics\": [], \"upstream_version\": \"1.3.6\", \"saved_at\": 1793464184.2898998, \"preview_cache_hit\": true}}",
+    "created_at": "2026-10-31T16:33:40.581648+00:00",
+    "updated_at": "2026-10-31T16:36:54.175377+00:00"
+  },
+  "history": [
+    {
+      "at": "2026-11-01T00:33:40.618506+08:00",
+      "state": "processing",
+      "progress": 5,
+      "error": ""
+    },
+    {
+      "at": "2026-11-01T00:33:43.630801+08:00",
+      "state": "processing",
+      "progress": 20,
+      "error": ""
+    },
+    {
+      "at": "2026-11-01T00:33:46.648063+08:00",
+      "state": "processing",
+      "progress": 40,
+      "error": ""
+    },
+    {
+      "at": "2026-11-01T00:34:25.819318+08:00",
+      "state": "processing",
+      "progress": 50,
+      "error": ""
+    },
+    {
+      "at": "2026-11-01T00:35:56.351147+08:00",
+      "state": "processing",
+      "progress": 75,
+      "error": ""
+    },
+    {
+      "at": "2026-11-01T00:36:54.179567+08:00",
+      "state": "complete",
+      "progress": 100,
+      "error": ""
+    }
+  ],
+  "last_checked_at": "2026-11-01T00:36:54.179602+08:00"
+}

@@ -1,0 +1,74 @@
+# Local credentials and private configuration
+.env
+.env.*
+!.env.example
+config.toml
+!.streamlit/config.toml
+config.local.*
+*.local.toml
+secrets.*
+.streamlit/secrets.toml
+*.pem
+*.key
+credentials*.json
+
+# Virtual environments and Python/tool caches
+.venv/
+venv/
+.bootstrap/
+.uv-cache/
+.tools/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.egg-info/
+build/
+dist/
+
+# Runtime data, logs, local databases, and media
+storage/
+runtime/
+logs/
+*.log
+*.pid
+*.sqlite
+*.sqlite3
+*.db
+*.db-*
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.avi
+*.mp3
+*.wav
+*.m4a
+*.srt
+
+# Downloads, editor and OS files
+*.zip
+*.7z
+*.tmp
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Private coursework originals and unreviewed conversation screenshots (keep locally)
+/docs/课程项目报告*
+/docs/报告证据核验清单.md
+*.docx
+*.pdf
+/docs/report_assets/*
+!/docs/report_assets/01_ContentFlow_选题与脚本主界面.png
+!/docs/report_assets/02A_ContentFlow_成片播放器与视频规格.png
+!/docs/report_assets/02B_ContentFlow_成片画面展示.png
+# Raw material frame: public showcase uses reviewed webpage/final-video images
+/docs/evidence/round006_pixabay_source_frame.png
+# Preserve original technical reports locally; publish clearly marked link-safe copies
+/docs/第005轮端到端验证报告.md
+/docs/第006轮Pixabay真实联调报告.md

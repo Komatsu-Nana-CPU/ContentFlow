@@ -1,0 +1,24 @@
+{
+  "checked_at": "2026-11-01T00:51:20.679752+08:00",
+  "web_health": true,
+  "mpt_version": "1.3.6",
+  "upstream_state": 1,
+  "upstream_progress": 100,
+  "production_job_state": "complete",
+  "source_files_checked": 53,
+  "upstream_changed_paths": [],
+  "lock_sha256": "497a686501e5f0023e7d671ff0c650d944a75d93ac46a2edb6cc61065cfb5668",
+  "candidate_files_checked": 89,
+  "files_over_1MiB": [
+    "docs/evidence/round006_pixabay_source_frame.png"
+  ],
+  "limited_secret_pattern_flagged_paths": [],
+  "markdown_documents_checked": 11,
+  "missing_local_links": [],
+  "tracked_files": 0,
+  "remotes": 0,
+  "staged_files": 0,
+  "private_ignore_checks_passed": true,
+  "nonsecret_streamlit_config_candidate": true,
+  "limitation": "Only unignored candidates and limited secret patterns checked; private config values not inspected by this review. No browser playback or subjective listening claim."
+}

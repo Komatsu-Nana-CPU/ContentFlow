@@ -1,0 +1,98 @@
+{
+  "at": "2026-11-01T00:41:43.091859+08:00",
+  "task_id": "045395ae-0ddd-48a1-8aaa-95db07c3970c",
+  "job_id": "98c1b665-7571-4f16-9bf7-072fd9eb3519",
+  "video_path": "runtime\\contentflow\\videos\\045395ae-0ddd-48a1-8aaa-95db07c3970c.mp4",
+  "bytes": 17043531,
+  "sha256": "69f5d7c817bce7ecaada063f19ceb39fa1bcaa6161eadf3045b405bf247eebea",
+  "download_equals_upstream": true,
+  "human_review_confirmed": true,
+  "video_post_attempts": 1,
+  "material_sources": [
+    {
+      "provider": "pixabay",
+      "search_term": "rain drops on forest leaves",
+      "source_page": "https://pixabay.com/videos/id-172759/",
+      "creator": "TravelGardenB",
+      "creator_page": null
+    },
+    {
+      "provider": "pixabay",
+      "search_term": "small stream flowing over rocks",
+      "source_page": "https://pixabay.com/videos/id-323176/",
+      "creator": "hijef",
+      "creator_page": null
+    },
+    {
+      "provider": "pixabay",
+      "search_term": "waterfall in green forest",
+      "source_page": "https://pixabay.com/videos/id-267095/",
+      "creator": "Engin_Akyurt",
+      "creator_page": null
+    },
+    {
+      "provider": "pixabay",
+      "search_term": "walking path in wet forest",
+      "source_page": "https://pixabay.com/videos/id-202753/",
+      "creator": "Matthias_Groeneveld",
+      "creator_page": null
+    }
+  ],
+  "streams": [
+    {
+      "type": "video",
+      "codec": "h264"
+    },
+    {
+      "type": "audio",
+      "codec": "aac"
+    }
+  ],
+  "full_decode": {
+    "video_frames": 560,
+    "audio_samples": 823296
+  },
+  "duration_seconds": 18.67,
+  "fps": 30.0,
+  "width": 1080,
+  "height": 1920,
+  "audio_rms": 0.1055629774928093,
+  "audio_peak": 0.6627829670906067,
+  "audio_measurement": "full FFmpeg-decoded mono float32 PCM; MoviePy sampled reader was unreliable",
+  "subtitle_content": "1\n00:00:00,100 --> 00:00:00,825\n雨刚停\n\n2\n00:00:01,075 --> 00:00:02,688\n森林里还挂着水珠\n\n3\n00:00:03,250 --> 00:00:04,688\n沿着小径往前走\n\n4\n00:00:05,000 --> 00:00:07,188\n溪水在石头间轻轻流淌\n\n5\n00:00:07,763 --> 00:00:08,387\n转过弯\n\n6\n00:00:08,700 --> 00:00:10,688\n一道瀑布从岩壁上落下\n\n7\n00:00:10,950 --> 00:00:12,450\n水声盖过了脚步声\n\n8\n00:00:13,012 --> 00:00:13,988\n我放慢呼吸\n\n9\n00:00:14,312 --> 00:00:16,837\n让湿润的空气慢慢填满胸腔\n\n10\n00:00:17,062 --> 00:00:18,087\n什么都不必赶\n\n",
+  "upstream_script_matches_approved": true,
+  "upstream_terms_match_approved": true,
+  "frames": [
+    {
+      "seconds": 1.5,
+      "path": "docs\\evidence\\round006_real_frame_1.jpg"
+    },
+    {
+      "seconds": 6.5,
+      "path": "docs\\evidence\\round006_real_frame_2.jpg"
+    },
+    {
+      "seconds": 11.5,
+      "path": "docs\\evidence\\round006_real_frame_3.jpg"
+    },
+    {
+      "seconds": 16.5,
+      "path": "docs\\evidence\\round006_real_frame_4.jpg"
+    }
+  ],
+  "range_preview": {
+    "status": 206,
+    "bytes": 1024,
+    "matches_file": true
+  },
+  "upstream_llm_provider_log_count": 0,
+  "browser_playback": "not verified: browser host unavailable; minimized Chrome recovery ended in URL confidence policy stop; no further computer interactions",
+  "frame_visual_review": {
+    "subtitles_visible": true,
+    "no_visible_chinese_garbled_text": true,
+    "first_three_scenes": "Leaf water droplets, rocks and flowing water; broadly nature-related",
+    "last_scene": "Sunset walking path; not a wet forest, semantic matching incomplete",
+    "precise_sentence_alignment": false
+  },
+  "human_subjective_listening": "not verified; PCM/FFmpeg and offline recognition are technical checks only"
+}

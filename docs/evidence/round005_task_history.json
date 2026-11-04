@@ -1,0 +1,196 @@
+[
+  {
+    "at": "2026-10-31T20:56:40.690400+08:00",
+    "task_id": "243f9893-0914-4b26-8057-dcff096c97d2",
+    "state": 4,
+    "progress": 5,
+    "videos": null,
+    "combined_videos": null,
+    "failed_stage": null,
+    "error": null
+  },
+  {
+    "at": "2026-10-31T20:56:42.694724+08:00",
+    "task_id": "243f9893-0914-4b26-8057-dcff096c97d2",
+    "state": 4,
+    "progress": 20,
+    "videos": null,
+    "combined_videos": null,
+    "failed_stage": null,
+    "error": null
+  },
+  {
+    "at": "2026-10-31T20:56:44.710641+08:00",
+    "task_id": "243f9893-0914-4b26-8057-dcff096c97d2",
+    "state": 4,
+    "progress": 50,
+    "videos": null,
+    "combined_videos": null,
+    "failed_stage": null,
+    "error": null
+  },
+  {
+    "at": "2026-10-31T20:56:46.717827+08:00",
+    "task_id": "243f9893-0914-4b26-8057-dcff096c97d2",
+    "state": 4,
+    "progress": 50,
+    "videos": null,
+    "combined_videos": null,
+    "failed_stage": null,
+    "error": null
+  },
+  {
+    "at": "2026-10-31T20:56:48.747298+08:00",
+    "task_id": "243f9893-0914-4b26-8057-dcff096c97d2",
+    "state": 4,
+    "progress": 50,
+    "videos": null,
+    "combined_videos": null,
+    "failed_stage": null,
+    "error": null
+  },
+  {
+    "at": "2026-10-31T20:56:50.771270+08:00",
+    "task_id": "243f9893-0914-4b26-8057-dcff096c97d2",
+    "state": 4,
+    "progress": 50,
+    "videos": null,
+    "combined_videos": null,
+    "failed_stage": null,
+    "error": null
+  },
+  {
+    "at": "2026-10-31T20:56:52.777419+08:00",
+    "task_id": "243f9893-0914-4b26-8057-dcff096c97d2",
+    "state": 4,
+    "progress": 50,
+    "videos": null,
+    "combined_videos": null,
+    "failed_stage": null,
+    "error": null
+  },
+  {
+    "at": "2026-10-31T20:56:54.795668+08:00",
+    "task_id": "243f9893-0914-4b26-8057-dcff096c97d2",
+    "state": 4,
+    "progress": 50,
+    "videos": null,
+    "combined_videos": null,
+    "failed_stage": null,
+    "error": null
+  },
+  {
+    "at": "2026-10-31T20:56:56.820159+08:00",
+    "task_id": "243f9893-0914-4b26-8057-dcff096c97d2",
+    "state": 4,
+    "progress": 75,
+    "videos": null,
+    "combined_videos": null,
+    "failed_stage": null,
+    "error": null
+  },
+  {
+    "at": "2026-10-31T20:56:58.842853+08:00",
+    "task_id": "243f9893-0914-4b26-8057-dcff096c97d2",
+    "state": 4,
+    "progress": 75,
+    "videos": null,
+    "combined_videos": null,
+    "failed_stage": null,
+    "error": null
+  },
+  {
+    "at": "2026-10-31T20:57:00.846118+08:00",
+    "task_id": "243f9893-0914-4b26-8057-dcff096c97d2",
+    "state": 4,
+    "progress": 75,
+    "videos": null,
+    "combined_videos": null,
+    "failed_stage": null,
+    "error": null
+  },
+  {
+    "at": "2026-10-31T20:57:02.859156+08:00",
+    "task_id": "243f9893-0914-4b26-8057-dcff096c97d2",
+    "state": 4,
+    "progress": 75,
+    "videos": null,
+    "combined_videos": null,
+    "failed_stage": null,
+    "error": null
+  },
+  {
+    "at": "2026-10-31T20:57:04.886019+08:00",
+    "task_id": "243f9893-0914-4b26-8057-dcff096c97d2",
+    "state": 4,
+    "progress": 75,
+    "videos": null,
+    "combined_videos": null,
+    "failed_stage": null,
+    "error": null
+  },
+  {
+    "at": "2026-10-31T20:57:06.909962+08:00",
+    "task_id": "243f9893-0914-4b26-8057-dcff096c97d2",
+    "state": 4,
+    "progress": 75,
+    "videos": null,
+    "combined_videos": null,
+    "failed_stage": null,
+    "error": null
+  },
+  {
+    "at": "2026-10-31T20:57:08.930497+08:00",
+    "task_id": "243f9893-0914-4b26-8057-dcff096c97d2",
+    "state": 4,
+    "progress": 75,
+    "videos": null,
+    "combined_videos": null,
+    "failed_stage": null,
+    "error": null
+  },
+  {
+    "at": "2026-10-31T20:57:10.949780+08:00",
+    "task_id": "243f9893-0914-4b26-8057-dcff096c97d2",
+    "state": 4,
+    "progress": 75,
+    "videos": null,
+    "combined_videos": null,
+    "failed_stage": null,
+    "error": null
+  },
+  {
+    "at": "2026-10-31T20:57:12.978150+08:00",
+    "task_id": "243f9893-0914-4b26-8057-dcff096c97d2",
+    "state": 4,
+    "progress": 75,
+    "videos": null,
+    "combined_videos": null,
+    "failed_stage": null,
+    "error": null
+  },
+  {
+    "at": "2026-10-31T20:57:15.005231+08:00",
+    "task_id": "243f9893-0914-4b26-8057-dcff096c97d2",
+    "state": 4,
+    "progress": 75,
+    "videos": null,
+    "combined_videos": null,
+    "failed_stage": null,
+    "error": null
+  },
+  {
+    "at": "2026-10-31T20:57:17.014366+08:00",
+    "task_id": "243f9893-0914-4b26-8057-dcff096c97d2",
+    "state": 1,
+    "progress": 100,
+    "videos": [
+      "/tasks/243f9893-0914-4b26-8057-dcff096c97d2/final-1.mp4"
+    ],
+    "combined_videos": [
+      "/tasks/243f9893-0914-4b26-8057-dcff096c97d2/combined-1.mp4"
+    ],
+    "failed_stage": null,
+    "error": null
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "checked_at": "2026-11-04T21:31:55.443627+08:00",
+  "model_calls": 0,
+  "video_post_attempts": 0,
+  "application_tests": {
+    "passed": true,
+    "exit_code": 0,
+    "count": 50,
+    "seconds": 2.424
+  },
+  "upstream_mock_tests": {
+    "passed": true,
+    "exit_code": 0,
+    "count": 11,
+    "seconds": 0.01
+  },
+  "protected_files_checked": 12,
+  "protected_originals_unchanged": true,
+  "upstream_source_files_checked": 53,
+  "upstream_changed_paths": [],
+  "upstream_lock_unchanged": true,
+  "screenshot_checks": [
+    {
+      "path": "docs/report_assets/01_ContentFlow_选题与脚本主界面.png",
+      "bytes": 318958,
+      "width": 2048,
+      "height": 1127
+    },
+    {
+      "path": "docs/report_assets/02A_ContentFlow_成片播放器与视频规格.png",
+      "bytes": 1217946,
+      "width": 2048,
+      "height": 1127
+    },
+    {
+      "path": "docs/report_assets/02B_ContentFlow_成片画面展示.png",
+      "bytes": 1722913,
+      "width": 2048,
+      "height": 1127
+    }
+  ],
+  "public_candidate_count": 106,
+  "public_check_passed": true,
+  "passed": true
+}

@@ -1,0 +1,12 @@
+﻿{
+    "engine":  "Windows installed zh-CN desktop recognizer; offline dictation",
+    "source":  "Downloaded final MP4 audio decoded to 16 kHz mono WAV",
+    "segments":  [
+                     {
+                         "text":  "你好这是内拥有的第一条测试食品中文配音和字幕正在自动生成",
+                         "confidence":  0.362784415
+                     }
+                 ],
+    "end":  "Input ended or recognition error",
+    "limitation":  "Automatic low-confidence recognition is not human listening approval"
+}

@@ -1,0 +1,36 @@
+{
+  "checked_at": "2026-10-31T23:01:15.708437+08:00",
+  "web_url": "http://127.0.0.1:8501",
+  "mpt_version": "1.3.6",
+  "source_files_unchanged": 53,
+  "changed_source_paths": [],
+  "credentials_present": {
+    "pexels": false,
+    "pixabay": false,
+    "deepseek": false
+  },
+  "unit_and_streamlit_apptest": {
+    "run": true,
+    "passed": 38,
+    "failed": 0,
+    "includes_original_tests": 14,
+    "mocked_full_ui_flow": true,
+    "commands": [
+      ".venv/Scripts/python.exe -X utf8 -B -m unittest discover -s tests -v"
+    ]
+  },
+  "fixed_upstream_mock_http_tests": {
+    "run": true,
+    "passed": 4,
+    "failed": 0
+  },
+  "real_model_requests_this_round": 0,
+  "real_online_search_executed": false,
+  "real_online_download_executed": false,
+  "real_online_video_task_ids": [],
+  "two_topic_end_to_end": "blocked by missing local credentials; not executed",
+  "old_artifact_adapter_regression": "passed; explicitly not an online generation test",
+  "screenshots": "not obtained; browser host unavailable and native fallback stopped by URL confidence policy; no further UI actions",
+  "persisted_production_drafts": 0,
+  "persisted_production_jobs": 0
+}

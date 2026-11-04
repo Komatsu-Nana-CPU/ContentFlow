@@ -1,0 +1,271 @@
+{
+  "commit": "436b0e9cc830ef7639e33388917e389cf30d3307",
+  "scope": "API runtime source subset; excludes WebUI, songs and fonts",
+  "files": [
+    {
+      "path": "LICENSE",
+      "git_blob_sha": "3b409c921f64304a971ca0a0e595c5bb459ac903",
+      "bytes": 1061
+    },
+    {
+      "path": "README.md",
+      "git_blob_sha": "56ef5aa859a066c14a78d7d795b772658e63e6b4",
+      "bytes": 35660
+    },
+    {
+      "path": "app/__init__.py",
+      "git_blob_sha": "b931e6475af0809b0b38747da8e4fa22b9469b3e",
+      "bytes": 69
+    },
+    {
+      "path": "app/asgi.py",
+      "git_blob_sha": "278e2dfd1021dba31e64a25399e97dcb6969ec3b",
+      "bytes": 8599
+    },
+    {
+      "path": "app/config/__init__.py",
+      "git_blob_sha": "2df95973476dbbb52b3bbd4f91c03ec526b3e38e",
+      "bytes": 568
+    },
+    {
+      "path": "app/config/config.py",
+      "git_blob_sha": "d9f62ed4e5b5928f720c0d71a98c0f80c85b2e7b",
+      "bytes": 21989
+    },
+    {
+      "path": "app/controllers/base.py",
+      "git_blob_sha": "c858836c2a9fd4c614bc99c240c3a74a9fbcfc8a",
+      "bytes": 3499
+    },
+    {
+      "path": "app/controllers/manager/base_manager.py",
+      "git_blob_sha": "ab21464314a334e2207f828a41b9da14efcca9a1",
+      "bytes": 4248
+    },
+    {
+      "path": "app/controllers/manager/memory_manager.py",
+      "git_blob_sha": "4a2612bdf33d9db77800330ff25bfbc4a1cb60ab",
+      "bytes": 479
+    },
+    {
+      "path": "app/controllers/manager/redis_manager.py",
+      "git_blob_sha": "2f9568aa977aaf713979e1979130c076aa0fde9d",
+      "bytes": 4316
+    },
+    {
+      "path": "app/controllers/ping.py",
+      "git_blob_sha": "073247ba3448688814919082faec7339d4718d3f",
+      "bytes": 245
+    },
+    {
+      "path": "app/controllers/v1/base.py",
+      "git_blob_sha": "1336e479c92cb7e40c53cda8a114c6bb218eb2f4",
+      "bytes": 275
+    },
+    {
+      "path": "app/controllers/v1/llm.py",
+      "git_blob_sha": "3d58eda583a042fd99e24cb222c1515c33b27558",
+      "bytes": 2156
+    },
+    {
+      "path": "app/controllers/v1/video.py",
+      "git_blob_sha": "8c90c58e07ba97d90aecb00b2bca07b048ee0ad7",
+      "bytes": 18932
+    },
+    {
+      "path": "app/models/__init__.py",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "bytes": 0
+    },
+    {
+      "path": "app/models/const.py",
+      "git_blob_sha": "cbeaa9d4d45470d1dc17b56a299e1ecf9766fdae",
+      "bytes": 711
+    },
+    {
+      "path": "app/models/exception.py",
+      "git_blob_sha": "78ee1c951a8b5fb42ba62d3818d37cbce2a43819",
+      "bytes": 1069
+    },
+    {
+      "path": "app/models/llm_provider.py",
+      "git_blob_sha": "dc6aea01922819989cccf508bcc9369190212fc2",
+      "bytes": 16576
+    },
+    {
+      "path": "app/models/schema.py",
+      "git_blob_sha": "ed83fc88eb3a12d64d0958460a7e719b5cc2e846",
+      "bytes": 16691
+    },
+    {
+      "path": "app/router.py",
+      "git_blob_sha": "3db93eee47f8cfb61eaca4afae7268f1d8c236cb",
+      "bytes": 448
+    },
+    {
+      "path": "app/services/__init__.py",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "bytes": 0
+    },
+    {
+      "path": "app/services/bgm.py",
+      "git_blob_sha": "a210923204401b2ac15bc21b79d8bb635a90eb92",
+      "bytes": 14992
+    },
+    {
+      "path": "app/services/cache_manager.py",
+      "git_blob_sha": "6247589308d9a88fdf02e50fab38abde6eb7acda",
+      "bytes": 7139
+    },
+    {
+      "path": "app/services/data/azure_voices.json",
+      "git_blob_sha": "af27ec030bdecefa39f8b5236b008fb8b1808cea",
+      "bytes": 21733
+    },
+    {
+      "path": "app/services/elevenlabs_music.py",
+      "git_blob_sha": "5eae088ba810f7e3a83c49eb6813071176820842",
+      "bytes": 14586
+    },
+    {
+      "path": "app/services/llm.py",
+      "git_blob_sha": "d66b1b392d97e381a958b63b76afed29513b443f",
+      "bytes": 49440
+    },
+    {
+      "path": "app/services/loomloom.py",
+      "git_blob_sha": "4c3a7d2b6fc24d264bf4afbefbad26e04163b8c4",
+      "bytes": 38100
+    },
+    {
+      "path": "app/services/material.py",
+      "git_blob_sha": "f1de37aef0d2b7ec47c797f47ef432f70d7e7bd6",
+      "bytes": 98500
+    },
+    {
+      "path": "app/services/material_cache.py",
+      "git_blob_sha": "77cc0c581e44a26fc90761ac788966ba3669374d",
+      "bytes": 15167
+    },
+    {
+      "path": "app/services/material_upload.py",
+      "git_blob_sha": "ddafb19fdfd616a9972d9d92d31ab3ae8c964e1e",
+      "bytes": 9043
+    },
+    {
+      "path": "app/services/metaso_minimax.py",
+      "git_blob_sha": "c8958401c60b9efe769581f3c8105f425863ba3a",
+      "bytes": 17276
+    },
+    {
+      "path": "app/services/ofox.py",
+      "git_blob_sha": "95ffef606381ab27a8db713b42c9459f6555770a",
+      "bytes": 17723
+    },
+    {
+      "path": "app/services/sonilo.py",
+      "git_blob_sha": "b2bb9df9bee5f35287ae3b17d3a041397b16c741",
+      "bytes": 13650
+    },
+    {
+      "path": "app/services/state.py",
+      "git_blob_sha": "3047096306b7788ce8abe3058e9b159c03fb0a5e",
+      "bytes": 7668
+    },
+    {
+      "path": "app/services/subtitle.py",
+      "git_blob_sha": "3d9d3d74837e6efe0ea96b5bdced9fd9ab19ebcd",
+      "bytes": 10779
+    },
+    {
+      "path": "app/services/task.py",
+      "git_blob_sha": "89fe5e70e2ed4450f4186d4000bbd519e7022b5b",
+      "bytes": 65319
+    },
+    {
+      "path": "app/services/task_artifacts.py",
+      "git_blob_sha": "95b45ef4f4f6909a395614414d5bf0179bd50e71",
+      "bytes": 3424
+    },
+    {
+      "path": "app/services/twelvelabs.py",
+      "git_blob_sha": "6d4844d18dee46a942ed6a3e874b434be0b1b1c9",
+      "bytes": 6164
+    },
+    {
+      "path": "app/services/upload_post.py",
+      "git_blob_sha": "cd9ebb213b5d737796459cc22ed0aa2d11251c97",
+      "bytes": 6413
+    },
+    {
+      "path": "app/services/utils/video_effects.py",
+      "git_blob_sha": "72b57d7dddf54221dfa9205aca30a4e2f599a799",
+      "bytes": 5556
+    },
+    {
+      "path": "app/services/version_checker.py",
+      "git_blob_sha": "c264832a15602ce92c442988d7d20c6d1f8c2474",
+      "bytes": 7649
+    },
+    {
+      "path": "app/services/video.py",
+      "git_blob_sha": "53830384e9715fe60ceacc6d63a0073662bf2887",
+      "bytes": 67984
+    },
+    {
+      "path": "app/services/voice.py",
+      "git_blob_sha": "2da26ffecdd6480c7e239909164def12e4f85ffe",
+      "bytes": 112648
+    },
+    {
+      "path": "app/services/volcengine_seedance.py",
+      "git_blob_sha": "9566550da06b91f9cbfd5d5960ec57a59089097d",
+      "bytes": 16650
+    },
+    {
+      "path": "app/services/webui_task.py",
+      "git_blob_sha": "498ddb4e6e19ad07469223278c5bc92f1ae986d0",
+      "bytes": 7169
+    },
+    {
+      "path": "app/utils/file_security.py",
+      "git_blob_sha": "00366fcd7f857568d47dce61e7ec273abaf15b3d",
+      "bytes": 1396
+    },
+    {
+      "path": "app/utils/logging_utils.py",
+      "git_blob_sha": "82e06ba3ba46a2d1488b4b266679279d837d5c02",
+      "bytes": 3721
+    },
+    {
+      "path": "app/utils/utils.py",
+      "git_blob_sha": "571522bbf0cd5be56a3ee723870f9e490c7ef53a",
+      "bytes": 18899
+    },
+    {
+      "path": "config.example.toml",
+      "git_blob_sha": "1f37750c41ae8096b6820050bfce33319382c63b",
+      "bytes": 27491
+    },
+    {
+      "path": "main.py",
+      "git_blob_sha": "af7de2cc7c23a37effdd5b4912e5edab984a42b4",
+      "bytes": 566
+    },
+    {
+      "path": "pyproject.toml",
+      "git_blob_sha": "b3135404f7cb1e284fa771f4261d0ce21f86ce3b",
+      "bytes": 2511
+    },
+    {
+      "path": "resource/public/index.html",
+      "git_blob_sha": "45e8037e70dd8a6e625c21c29e7e3984f9caa365",
+      "bytes": 689
+    },
+    {
+      "path": "uv.lock",
+      "git_blob_sha": "d5b6e8c6c146f9d71734d58fb17c2de5a514748d",
+      "bytes": 601452
+    }
+  ]
+}

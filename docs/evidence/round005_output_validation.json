@@ -1,0 +1,75 @@
+{
+  "checked_at": "2026-10-31T20:58:34.503470+08:00",
+  "task_id": "243f9893-0914-4b26-8057-dcff096c97d2",
+  "path": "runtime\\round005\\output\\contentflow_first_sample.mp4",
+  "bytes": 2489359,
+  "sha256": "16f70678b774a3c904bdabc7a9c7e66fef85f4305a1d0bdae5f78fb8ddda27b4",
+  "download_equals_server_file": true,
+  "streams": [
+    {
+      "type": "video",
+      "codec": "h264",
+      "duration_seconds": 7.2,
+      "width": 1080,
+      "height": 1920,
+      "sample_rate": null
+    },
+    {
+      "type": "audio",
+      "codec": "aac",
+      "duration_seconds": 7.18,
+      "width": null,
+      "height": null,
+      "sample_rate": 44100
+    }
+  ],
+  "complete_decode": {
+    "video_frames": 216,
+    "audio_frames": 310,
+    "audio_samples": 317440
+  },
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "duration_seconds": 7.2,
+  "audio_rms": 0.0810527108873351,
+  "audio_peak": 0.4285888671875,
+  "frame_motion_mean_absolute_difference": 5.977710423096708,
+  "ffmpeg_full_decode_exit_code": 0,
+  "ffmpeg_decode_error_output": "",
+  "frame_evidence": [
+    {
+      "seconds": 1.2,
+      "path": "docs\\evidence\\round005_frame_01.png"
+    },
+    {
+      "seconds": 3.4,
+      "path": "docs\\evidence\\round005_frame_02.png"
+    },
+    {
+      "seconds": 5.7,
+      "path": "docs\\evidence\\round005_frame_03.png"
+    }
+  ],
+  "subtitle_path": "D:\\Projects\\MoneyPrinterTurbo\\storage\\tasks\\243f9893-0914-4b26-8057-dcff096c97d2\\subtitle.srt",
+  "subtitle_content": "1\n00:00:00,100 --> 00:00:00,550\n你好\n\n2\n00:00:00,863 --> 00:00:03,188\n这是内容流的第一条测试视频\n\n3\n00:00:03,763 --> 00:00:06,588\n中文配音和字幕正在自动生成\n\n",
+  "preview_range": {
+    "http_status": 206,
+    "content_range": "bytes 0-1023/2489359",
+    "bytes_read": 1024,
+    "matches_download_prefix": true
+  },
+  "actual_player_playback": "Not completed: user stopped Computer Use with physical Escape. No further player input issued.",
+  "human_subjective_listening": "Not completed; technical decode and offline ASR are separate evidence.",
+  "decoded_frame_visual_review": {
+    "reviewed_seconds": [
+      1.2,
+      5.7
+    ],
+    "burned_chinese_subtitles_visible": true,
+    "no_visible_garbled_text_or_horizontal_overflow": true,
+    "gap_frame_seconds": 3.4,
+    "gap_matches_srt": true,
+    "review_scope": "Extracted actual downloaded frames, not full player playback"
+  }
+}

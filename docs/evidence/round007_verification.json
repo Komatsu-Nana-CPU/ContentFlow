@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-04",
+  "checked_at": "2026-11-04T20:57:55.045910+08:00",
+  "new_generation_tasks": 0,
+  "model_calls": 0,
+  "application_tests": {
+    "exit_code": 0,
+    "count": 50,
+    "seconds": 3.976,
+    "passed": true,
+    "log_location": "runtime/round007_application_tests.log"
+  },
+  "upstream_mock_tests": {
+    "exit_code": 0,
+    "count": 11,
+    "seconds": 0.009,
+    "passed": true,
+    "log_location": "runtime/round007_upstream_mock_tests.log"
+  },
+  "upstream_source_files_checked": 53,
+  "upstream_changed_paths": [],
+  "upstream_lock_unchanged": true,
+  "third_party_license_matches": true,
+  "protected_original_report_files_checked": 7,
+  "protected_original_reports_unchanged": true,
+  "existing_online_video_unchanged": true,
+  "production_job_states": {
+    "complete": 1
+  },
+  "known_private_identity_flagged_paths": [],
+  "personal_user_directory_flagged_paths": [],
+  "all_checks_passed": true
+}

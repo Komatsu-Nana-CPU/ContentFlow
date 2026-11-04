@@ -1,0 +1,36 @@
+{
+  "state": "complete",
+  "attempted_at": "2026-10-31T20:56:40.679413+08:00",
+  "post_attempt_count": 1,
+  "http_status": 200,
+  "task_id": "243f9893-0914-4b26-8057-dcff096c97d2",
+  "response": {
+    "status": 200,
+    "message": "success",
+    "data": {
+      "task_id": "243f9893-0914-4b26-8057-dcff096c97d2"
+    }
+  },
+  "accepted_at": "2026-10-31T20:56:40.687226+08:00",
+  "finished_at": "2026-10-31T20:57:17.015867+08:00",
+  "final_status": {
+    "task_id": "243f9893-0914-4b26-8057-dcff096c97d2",
+    "state": 1,
+    "progress": 100,
+    "videos": [
+      "/tasks/243f9893-0914-4b26-8057-dcff096c97d2/final-1.mp4"
+    ],
+    "combined_videos": [
+      "/tasks/243f9893-0914-4b26-8057-dcff096c97d2/combined-1.mp4"
+    ],
+    "failed_stage": null,
+    "error": null
+  },
+  "download": {
+    "http_status": 200,
+    "content_type": "video/mp4",
+    "bytes": 2489359,
+    "path": "runtime\\round005\\output\\contentflow_first_sample.mp4",
+    "endpoint": "/api/v1/download/243f9893-0914-4b26-8057-dcff096c97d2/final-1.mp4"
+  }
+}

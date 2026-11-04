@@ -1,0 +1,21 @@
+{
+  "python": "3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]",
+  "prefix": "D:\\Projects\\MoneyPrinterTurbo\\.venv",
+  "base_prefix": "D:\\APP\\Python\\Python313",
+  "ffmpeg_exe": "D:\\Projects\\MoneyPrinterTurbo\\.venv\\Lib\\site-packages\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+  "ffmpeg_version": "ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers",
+  "font": {
+    "path": "C:\\Windows\\Fonts\\msyhbd.ttc",
+    "name": [
+      "Microsoft YaHei",
+      "Bold"
+    ],
+    "bbox": [
+      0,
+      7,
+      120,
+      36
+    ]
+  },
+  "uv_lock_sha256": "497a686501e5f0023e7d671ff0c650d944a75d93ac46a2edb6cc61065cfb5668"
+}

@@ -1,0 +1,11 @@
+MoneyPrinterTurbo API 连通性检测（只读）
+[通过] 服务可访问，已取得 OpenAPI 3 描述。
+[通过] 脚本生成：POST /api/v1/scripts
+[通过] 素材上传：POST /api/v1/video_materials
+[通过] 素材列表：GET /api/v1/video_materials
+[通过] 视频生成：POST /api/v1/videos
+[通过] 任务查询：GET /api/v1/tasks/{task_id}
+[通过] 成品下载：GET /api/v1/download/{file_path}
+[通过] 成品预览：GET /api/v1/stream/{file_path}
+[说明] 仅验证接口声明；未验证鉴权、请求字段兼容性、配音或视频生成能力。
+检测退出码：0

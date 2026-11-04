@@ -1,0 +1,7 @@
+{
+  "scope": "unignored candidate files only; credential-named files and private configurations not opened",
+  "candidate_count": 17,
+  "large_files_over_1MiB": [],
+  "credential_pattern_flagged_paths": [],
+  "limitations": "Pattern scan is not a guarantee of absence of every possible secret. No secret values are printed."
+}

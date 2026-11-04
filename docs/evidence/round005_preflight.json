@@ -1,0 +1,16 @@
+{
+  "checked_at": "2026-10-31T20:55:30.180928+08:00",
+  "upstream_version": "1.3.6",
+  "edge_tts_version": "7.3.1",
+  "request_keys_validated": 38,
+  "pydantic_validation": "passed",
+  "live_openapi_validation": "passed",
+  "subtitle_provider": "edge",
+  "auto_publication_disabled": true,
+  "fixed_script_bypasses_llm": true,
+  "local_material_bypasses_term_generation": true,
+  "upload_identifier": "ab75156215764effb90a6fd01426bad4.mp4",
+  "request_submitted": false,
+  "uv_lock_sha256": "497a686501e5f0023e7d671ff0c650d944a75d93ac46a2edb6cc61065cfb5668",
+  "dependency_override_authorized": "User approved only edge-tts 7.2.7 -> 7.3.1 in isolated .venv; MoneyPrinterTurbo source and lock unchanged"
+}

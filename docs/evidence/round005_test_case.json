@@ -1,0 +1,11 @@
+{
+  "round": "005",
+  "fixed_script": "你好，这是内容流的第一条测试视频。中文配音和字幕正在自动生成。",
+  "voice_name": "zh-CN-XiaoxiaoNeural-Female",
+  "voice_rate": 1.0,
+  "expected_duration_seconds": [5, 10],
+  "material_provenance": "本轮由本机 FFmpeg 生成纯几何动画，不含第三方视频、人物、商标或音乐；允许用于本课程测试。",
+  "material_path": "runtime/round005/input/geometric_motion.mp4",
+  "model_calls_permitted": false,
+  "upstream_commit": "436b0e9cc830ef7639e33388917e389cf30d3307"
+}

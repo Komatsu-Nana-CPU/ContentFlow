@@ -1,0 +1,28 @@
+{
+  "final": {
+    "audio_duration": 18.67,
+    "shape": [
+      298720,
+      2
+    ],
+    "rms": 0.000335693359375,
+    "peak": 0.000335693359375,
+    "ffmpeg_volumes": [
+      "mean_volume: -22.5 dB",
+      "max_volume: -6.6 dB"
+    ]
+  },
+  "narration": {
+    "audio_duration": 18.65,
+    "shape": [
+      298400,
+      2
+    ],
+    "rms": 0.000335693359375,
+    "peak": 0.000335693359375,
+    "ffmpeg_volumes": [
+      "mean_volume: -19.5 dB",
+      "max_volume: -3.6 dB"
+    ]
+  }
+}

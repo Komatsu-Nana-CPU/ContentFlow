@@ -1,0 +1,53 @@
+{
+  "source": "pixabay",
+  "at": "2026-11-01T00:29:40.597548+08:00",
+  "status": "passed",
+  "matched_count": 20,
+  "search_network_calls": 4,
+  "terms": [
+    {
+      "search_term": "rain drops on forest leaves",
+      "candidate_count": 4,
+      "upstream_cache_hit": false,
+      "http": {
+        "http_status": 200,
+        "status": "ok",
+        "returned_hits": 50
+      }
+    },
+    {
+      "search_term": "small stream flowing over rocks",
+      "candidate_count": 5,
+      "upstream_cache_hit": false,
+      "http": {
+        "http_status": 200,
+        "status": "ok",
+        "returned_hits": 50
+      }
+    },
+    {
+      "search_term": "waterfall in green forest",
+      "candidate_count": 7,
+      "upstream_cache_hit": false,
+      "http": {
+        "http_status": 200,
+        "status": "ok",
+        "returned_hits": 50
+      }
+    },
+    {
+      "search_term": "walking path in wet forest",
+      "candidate_count": 5,
+      "upstream_cache_hit": false,
+      "http": {
+        "http_status": 200,
+        "status": "ok",
+        "returned_hits": 50
+      }
+    }
+  ],
+  "diagnostics": [],
+  "upstream_version": "1.3.6",
+  "saved_at": 1793464184.2898998,
+  "preview_cache_hit": false
+}

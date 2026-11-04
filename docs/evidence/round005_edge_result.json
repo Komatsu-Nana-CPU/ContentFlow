@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "project_version": "1.3.6",
+  "edge_tts_version": "7.3.1",
+  "voice_name": "zh-CN-XiaoxiaoNeural",
+  "audio_path": "runtime\\round005\\edge\\narration.mp3",
+  "audio_bytes": 43056,
+  "audio_sha256": "cafee432f8afece8830f5c655c7999c68432d6572a7e2274fe4c4df1ca441420",
+  "duration_seconds": 7.18,
+  "rms": 0.08120818133089942,
+  "peak": 0.429290771484375,
+  "word_boundary_count": 17,
+  "subtitle_exists": true,
+  "verification_recovery": "Original TTS succeeded. Temporary verifier used wrong positional argument order for create_subtitle; corrected to keyword arguments and rebuilt SubMaker from saved genuine word boundaries. No additional network synthesis.",
+  "subjective_listening": "Not completed: Computer Use stopped by user via physical Escape"
+}

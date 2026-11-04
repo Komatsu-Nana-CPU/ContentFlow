@@ -1,0 +1,12 @@
+{
+  "commit": "436b0e9cc830ef7639e33388917e389cf30d3307",
+  "project_version": "1.3.6",
+  "source_files_verified": 53,
+  "llm_provider": "deepseek",
+  "resolved_model": "deepseek-flash",
+  "listen_host": "127.0.0.1",
+  "listen_port": 8080,
+  "subtitle_provider": "edge",
+  "chinese_glyph_support": true,
+  "scope": "API runtime source subset; excludes WebUI, songs and fonts"
+}

@@ -1,0 +1,15 @@
+{
+  "checked_at": "2026-10-31T21:05:02.048566+08:00",
+  "updated_documents_checked": 4,
+  "relative_links_valid": true,
+  "unignored_candidate_count_before_this_report": 37,
+  "large_files_over_1MiB": [],
+  "common_credential_pattern_flagged_paths": [],
+  "tracked_file_count": 0,
+  "remote_count": 0,
+  "real_api_total_tasks": 1,
+  "task_id": "243f9893-0914-4b26-8057-dcff096c97d2",
+  "final_state": 1,
+  "git_scan_limitation": "Only unignored candidates and limited patterns; ignored private configuration not read; does not prove absence of every possible secret",
+  "subjective_playback_verification": "Not completed: user stopped Computer Use"
+}

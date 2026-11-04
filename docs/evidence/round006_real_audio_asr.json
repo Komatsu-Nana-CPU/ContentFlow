@@ -1,0 +1,18 @@
+﻿{
+    "type":  "Offline installed Windows zh-CN recognizer on actual generated audio, not human listening",
+    "segments":  [
+                     {
+                         "text":  "乙肝平森林里还挂着水珠",
+                         "confidence":  0.321575433
+                     },
+                     {
+                         "text":  "沿着小径往前走溪水在石头间轻轻流淌",
+                         "confidence":  0.4638797
+                     },
+                     {
+                         "text":  "将国外一道瀑布从岩壁上落下水声盖过了脚步声不放慢呼吸着湿润的空气那漫天漫行将什么都不笔杆",
+                         "confidence":  0.263517171
+                     }
+                 ],
+    "ending":  "Input ended or recognition error"
+}

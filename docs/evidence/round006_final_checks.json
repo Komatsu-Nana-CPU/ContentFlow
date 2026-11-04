@@ -1,0 +1,15 @@
+{
+  "checked_at": "2026-10-31T23:04:47.581766+08:00",
+  "web_health": true,
+  "mpt_version": "1.3.6",
+  "relative_links_checked_documents": 9,
+  "missing_local_links": [],
+  "candidate_files_before_report": 63,
+  "files_over_1MiB": [],
+  "limited_secret_pattern_flagged_paths": [],
+  "non_secret_streamlit_config_tracked_candidate": true,
+  "private_config_database_media_env_ignore_rules": "passed",
+  "tracked_files": 0,
+  "remotes": 0,
+  "limit": "Only unignored candidate files and limited patterns; private configurations not read by this review; no guarantee every possible secret is detected"
+}

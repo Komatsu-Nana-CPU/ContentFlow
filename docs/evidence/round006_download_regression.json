@@ -1,0 +1,18 @@
+{
+  "type": "READ-ONLY adapter regression against existing round005 artifact; not round006 online generation",
+  "schema_check": "passed against live 1.3.6 OpenAPI",
+  "download_metadata": {
+    "bytes": 2489359,
+    "sha256": "16f70678b774a3c904bdabc7a9c7e66fef85f4305a1d0bdae5f78fb8ddda27b4",
+    "duration_seconds": 7.2,
+    "width": 1080,
+    "height": 1920,
+    "decoded": true
+  },
+  "path": "runtime\\round006_adapter_regression\\243f9893-0914-4b26-8057-dcff096c97d2.mp4",
+  "created_new_task": false,
+  "streamlit_health": {
+    "http_status": 200,
+    "healthy": true
+  }
+}

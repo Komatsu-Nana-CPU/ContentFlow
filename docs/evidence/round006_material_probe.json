@@ -1,0 +1,11 @@
+{
+  "at": "2026-10-31T22:19:00.507540+08:00",
+  "upstream_version": "1.3.6",
+  "source": "pexels",
+  "search_term": "forest sunlight",
+  "real_network_search_executed": false,
+  "real_download_executed": false,
+  "status": "blocked_missing_key",
+  "message": "尚未配置所选免费素材 API Key，未发请求；未切换本地素材或其他服务。",
+  "logs": []
+}

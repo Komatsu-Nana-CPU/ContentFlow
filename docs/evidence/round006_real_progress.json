@@ -1,0 +1,27 @@
+{
+  "at": "2026-11-01T00:46:09.585645+08:00",
+  "phase": "first real online video generated and technically validated",
+  "pixabay_configured": true,
+  "deepseek_configured": true,
+  "real_pixabay_search_requests": 5,
+  "standalone_probe_downloads": 1,
+  "actual_generation_sources": 4,
+  "deepseek_requests": 1,
+  "deepseek_usage": {
+    "prompt_tokens": 210,
+    "completion_tokens": 99,
+    "total_tokens": 309
+  },
+  "human_script_review": "explicitly approved by user",
+  "video_post_attempts": 1,
+  "task_id": "045395ae-0ddd-48a1-8aaa-95db07c3970c",
+  "job_id": "98c1b665-7571-4f16-9bf7-072fd9eb3519",
+  "duration_seconds": 18.67,
+  "bytes": 17043531,
+  "technical_media_checks": "passed",
+  "actual_production_data_app_render": "passed",
+  "actual_browser_playback": "not verified due tool limitation",
+  "subjective_audiovisual_acceptance": "pending user review",
+  "second_topic": "not run; optional follow-up",
+  "semantic_match": "partial: final scene differs from wet-forest keyword"
+}

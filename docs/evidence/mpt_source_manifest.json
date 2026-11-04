@@ -1,0 +1,79 @@
+{
+  "checked_date": "2026-10-31",
+  "repository": "https://github.com/harry0703/MoneyPrinterTurbo",
+  "ref": "main",
+  "commit_sha": null,
+  "limitation": "GitHub commit API returned HTTP 403 rate limit; main files retrieved separately, not guaranteed atomic snapshot. No source code executed.",
+  "files": [
+    {
+      "path": "app/asgi.py",
+      "url": "https://raw.githubusercontent.com/harry0703/MoneyPrinterTurbo/main/app/asgi.py",
+      "sha256": "9b741b336f605f7159d519d9bbc9b33bf48337039feaa25ac644bc1b02821760"
+    },
+    {
+      "path": "app/config/config.py",
+      "url": "https://raw.githubusercontent.com/harry0703/MoneyPrinterTurbo/main/app/config/config.py",
+      "sha256": "4e567f4c7b82b5e3cc64fe0539a9a003d1b368135f846a31a2c2fb5fad645134"
+    },
+    {
+      "path": "app/controllers/base.py",
+      "url": "https://raw.githubusercontent.com/harry0703/MoneyPrinterTurbo/main/app/controllers/base.py",
+      "sha256": "f9b334552df6783194e17774e0d83e1ecfc89ea24c2cfa6f98f292bbb16c12de"
+    },
+    {
+      "path": "app/controllers/v1/video.py",
+      "url": "https://raw.githubusercontent.com/harry0703/MoneyPrinterTurbo/main/app/controllers/v1/video.py",
+      "sha256": "0b08961e6c0337e5b5a43a7f49ff067dcacb9c28ad53f65163d583f9a817cd33"
+    },
+    {
+      "path": "app/models/const.py",
+      "url": "https://raw.githubusercontent.com/harry0703/MoneyPrinterTurbo/main/app/models/const.py",
+      "sha256": "873b17eee5490fd066a94241704077d6d815ba2f81346e634279ca0bc2d43974"
+    },
+    {
+      "path": "app/models/llm_provider.py",
+      "url": "https://raw.githubusercontent.com/harry0703/MoneyPrinterTurbo/main/app/models/llm_provider.py",
+      "sha256": "e6186b8d4ec65e84922437e4e932a9d0f52d5f926fff05297dfe14af1f31af57"
+    },
+    {
+      "path": "app/models/schema.py",
+      "url": "https://raw.githubusercontent.com/harry0703/MoneyPrinterTurbo/main/app/models/schema.py",
+      "sha256": "a56e7897a3e04dccb6d99d0e753bda5ef96eb643a6d5714e1091f1ccbca2ab52"
+    },
+    {
+      "path": "app/services/material_upload.py",
+      "url": "https://raw.githubusercontent.com/harry0703/MoneyPrinterTurbo/main/app/services/material_upload.py",
+      "sha256": "120d939d9ebbd396e36ec2ede7bf006394cbaeaed9aca8e09a7e6eb14c2e127f"
+    },
+    {
+      "path": "app/services/task.py",
+      "url": "https://raw.githubusercontent.com/harry0703/MoneyPrinterTurbo/main/app/services/task.py",
+      "sha256": "b736d5146f5f33cd3f7103b68aad679e0baeadcd773cc5d67b00efdb2dc01cba"
+    },
+    {
+      "path": "app/services/video.py",
+      "url": "https://raw.githubusercontent.com/harry0703/MoneyPrinterTurbo/main/app/services/video.py",
+      "sha256": "06652c7034101e8e024fd381cfd8b9a550aa60379c852362f7f12d64e2576f93"
+    },
+    {
+      "path": "app/services/voice.py",
+      "url": "https://raw.githubusercontent.com/harry0703/MoneyPrinterTurbo/main/app/services/voice.py",
+      "sha256": "c5064e796d301f334f8c186c528f0f8fa18ba08e9b177f4cf1ac5d5f87047bdd"
+    },
+    {
+      "path": "app/utils/utils.py",
+      "url": "https://raw.githubusercontent.com/harry0703/MoneyPrinterTurbo/main/app/utils/utils.py",
+      "sha256": "fbc59685eaedf32331f8cfe25eb4a8f579c66b44f796b9063b8dd914d99ab667"
+    },
+    {
+      "path": "config.example.toml",
+      "url": "https://raw.githubusercontent.com/harry0703/MoneyPrinterTurbo/main/config.example.toml",
+      "sha256": "6eadd4e7002443c992d62cde74d19a8bf20fe1a69a10930bd65ac5fe083af61c"
+    },
+    {
+      "path": "pyproject.toml",
+      "url": "https://raw.githubusercontent.com/harry0703/MoneyPrinterTurbo/main/pyproject.toml",
+      "sha256": "89240fa8a1ad53e6e50e59d64bcbcefd7226ff0b423061f6d654148c86526145"
+    }
+  ]
+}

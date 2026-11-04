@@ -1,0 +1,12 @@
+{
+  "source": "Locally generated FFmpeg lavfi testsrc2 geometric animation; no third-party footage or audio",
+  "path": "runtime\\round005\\input\\geometric_motion.mp4",
+  "bytes": 1701421,
+  "sha256": "f29cc6b3385e4b9109c117876555c067f846267633a8a28db3b3391a65341389",
+  "width": 540,
+  "height": 960,
+  "fps": 24.0,
+  "duration_seconds": 10.0,
+  "has_audio": false,
+  "ffmpeg_input": "testsrc2=size=540x960:rate=24:duration=10"
+}

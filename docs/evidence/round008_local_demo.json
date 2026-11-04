@@ -1,0 +1,33 @@
+{
+  "local_frontend": "http://127.0.0.1:8501",
+  "local_backend_docs": "http://127.0.0.1:8080/docs",
+  "model_calls": 0,
+  "video_post_attempts": 0,
+  "frontend_health": true,
+  "backend_version": "1.3.6",
+  "upstream_active_tasks": 0,
+  "local_active_or_uncertain_tasks": 0,
+  "existing_video_bytes": 17043531,
+  "existing_video_sha256": "69f5d7c817bce7ecaada063f19ceb39fa1bcaa6161eadf3045b405bf247eebea",
+  "backend_download_hash_matches": true,
+  "backend_stream_range_status": 206,
+  "backend_stream_prefix_matches": true,
+  "production_data_ui_exceptions": 0,
+  "production_data_video_controls": 1,
+  "production_data_download_controls": 1,
+  "production_data_metrics": [
+    {
+      "label": "实际时长",
+      "value": "18.67 秒"
+    },
+    {
+      "label": "分辨率",
+      "value": "1080 × 1920"
+    },
+    {
+      "label": "文件大小",
+      "value": "16.25 MiB"
+    }
+  ],
+  "actual_browser_interaction": "pending; AppTest is not browser playback"
+}

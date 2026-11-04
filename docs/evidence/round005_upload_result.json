@@ -1,0 +1,26 @@
+{
+  "upload_http_status": 200,
+  "upload_response": {
+    "status": 200,
+    "message": "success",
+    "data": {
+      "file": "ab75156215764effb90a6fd01426bad4.mp4"
+    }
+  },
+  "list_http_status": 200,
+  "list_response": {
+    "status": 200,
+    "message": "success",
+    "data": {
+      "files": [
+        {
+          "name": "ab75156215764effb90a6fd01426bad4.mp4",
+          "size": 1701421,
+          "file": "ab75156215764effb90a6fd01426bad4.mp4"
+        }
+      ]
+    }
+  },
+  "stored_file_listed": true,
+  "uploaded_bytes_match": true
+}

@@ -1,0 +1,40 @@
+{
+  "basis": "Selected request fields preserved by actual MPT script.json; no config or credentials",
+  "task_id": "045395ae-0ddd-48a1-8aaa-95db07c3970c",
+  "request": {
+    "voice_rate": 1.0,
+    "voice_volume": 1.0,
+    "n_threads": 2,
+    "video_clip_duration": 5,
+    "voice_name": "zh-CN-XiaoxiaoNeural-Female",
+    "video_script": "雨刚停，森林里还挂着水珠。沿着小径往前走，溪水在石头间轻轻流淌。转过弯，一道瀑布从岩壁上落下，水声盖过了脚步声。我放慢呼吸，让湿润的空气慢慢填满胸腔，什么都不必赶。",
+    "video_aspect": "9:16",
+    "match_materials_to_script": true,
+    "custom_audio_file": null,
+    "video_fit_mode": "cover",
+    "subtitle_animation": "none",
+    "font_size": 60,
+    "video_language": "zh-CN",
+    "stroke_color": "#000000",
+    "stroke_width": 1.5,
+    "video_count": 1,
+    "video_terms": [
+      "rain drops on forest leaves",
+      "small stream flowing over rocks",
+      "waterfall in green forest",
+      "walking path in wet forest"
+    ],
+    "subtitle_enabled": true,
+    "bgm_volume": 0.0,
+    "text_fore_color": "#FFFFFF",
+    "video_source": "pixabay",
+    "video_concat_mode": "sequential",
+    "bgm_type": "",
+    "subtitle_display_mode": "sentence",
+    "subtitle_position": "bottom",
+    "video_subject": "雨后森林溪流漫步",
+    "video_transition_mode": null,
+    "font_name": "C:/Windows/Fonts/msyhbd.ttc",
+    "bgm_file": ""
+  }
+}

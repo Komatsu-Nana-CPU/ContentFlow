@@ -1,0 +1,10 @@
+﻿{
+    "engine":  "Windows installed zh-CN desktop recognizer; offline dictation",
+    "segments":  [
+                     {
+                         "text":  "你好这是内拥有的第一条测试食品中文配音和字幕正在自动生成",
+                         "confidence":  0.34768182
+                     }
+                 ],
+    "end":  "Input ended or recognition error"
+}

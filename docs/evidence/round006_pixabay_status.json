@@ -1,0 +1,22 @@
+{
+  "at": "2026-11-01T00:19:49.122486+08:00",
+  "source": "pixabay",
+  "key_field": "D:\\Projects\\MoneyPrinterTurbo\\config.toml [app].pixabay_api_keys",
+  "pixabay_configured": false,
+  "deepseek_configured": false,
+  "application_tests_passed": 43,
+  "original_tests_included": 14,
+  "upstream_mock_tests_passed": 11,
+  "real_search_network_calls": 0,
+  "real_downloads_this_continuation": 0,
+  "real_deepseek_calls_this_continuation": 0,
+  "real_video_task_ids": [],
+  "real_end_to_end": "not executed; local credentials and human script review required",
+  "web_health": true,
+  "production_drafts": 0,
+  "production_jobs": 0,
+  "active_jobs": 0,
+  "local_document_links": "passed",
+  "tracked_files": 0,
+  "remotes": 0
+}

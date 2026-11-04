@@ -1,0 +1,13 @@
+{
+  "mode": "async diagnostic; same installed Edge version and voice",
+  "version": "7.2.7",
+  "local_proxy": true,
+  "success": false,
+  "error_type": "WSServerHandshakeError",
+  "http_status": 403,
+  "errno": null,
+  "server_date": "Sat, 31 Oct 2026 12:49:02 GMT",
+  "elapsed_seconds": 6.186,
+  "audio_bytes": 0,
+  "boundary_count": 0
+}

@@ -1,0 +1,34 @@
+{
+  "source": "pixabay",
+  "at": "2026-11-01T00:26:58.485069+08:00",
+  "status": "passed",
+  "matched_count": 13,
+  "search_network_calls": 1,
+  "terms": [
+    {
+      "search_term": "waterfall",
+      "candidate_count": 13,
+      "upstream_cache_hit": false,
+      "http": {
+        "http_status": 200,
+        "status": "ok",
+        "returned_hits": 50
+      }
+    }
+  ],
+  "diagnostics": [],
+  "upstream_version": "1.3.6",
+  "download": {
+    "relative_path": "storage\\cache_videos\\vid-f88c247fa491786c2a886ef7126f6e99.mp4",
+    "bytes": 211672535,
+    "duration_seconds": 20.4,
+    "width": 2160,
+    "height": 3840,
+    "fps": 60.0,
+    "format": "mp4",
+    "url_scheme": "https",
+    "url_host": "cdn.pixabay.com",
+    "sha256": "dc47c8161e768a5f555b2f6143abad3f305e0fe726cbd9fb7b9e605ac28957e9",
+    "source_page": "https://pixabay.com/videos/id-228847/"
+  }
+}

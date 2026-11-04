@@ -1,0 +1,13 @@
+{
+  "host": "speech.platform.bing.com",
+  "port": 443,
+  "dns": {
+    "success": true,
+    "address_count": 4,
+    "seconds": 0.019
+  },
+  "tcp_tls": {
+    "success": true,
+    "protocol": "TLSv1.3"
+  }
+}
